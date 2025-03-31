@@ -1,0 +1,15 @@
+export const SCREEN = {
+	SplashScreen: 'SplashScreen',
+	OnBoarding: 'OnBoarding',
+	Register: 'Register',
+	Login: 'Login',
+	SecurityPhrase: 'SecurityPhrase',
+	SecurityPhraseConfirm: 'SecurityPhraseConfirm',
+	DerivationPath: 'DerivationPath',
+	NetworkAuth: 'NetworkAuth',
+	DidList: 'DidList',
+	QrReader: 'QrReader',
+	Credentials: 'Credentials',
+	Presentations: 'Presentations',
+	Historical: 'Historical',
+} as const
