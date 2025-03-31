@@ -2,7 +2,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./docs/img/identfy-logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./docs/img/identfy-logo-light.svg">
-      <img alt="identfy" src="./docs/img/identfy.png" width="350" style="max-width: 100%;">
+      <img alt="identfy" src="./docs/img/header-identfy.jpg" width="350" style="max-width: 100%;">
     </picture>
 </p>
 
@@ -20,19 +20,22 @@
 
 **identfy Holder Wallet** is a non-custodial Wallet for the management of VC and DID. It is an open-source based app that enables self-management of digital identity using decentralized identifiers (DIDs) for users. It also allows interaction with verifiable credentials (VCs) issued by trusted entities. It is possible to operate within various identity models, different networks, and blockchain infrastructures, enabling the management of digital identities and verifiable credentials on LACChain, Alastria and EBSI. With Identfy, you can:
 
-- Log in using Alastria EPIC, LACChain ID, or EBSI ID. 
+- Log in using Alastria EPIC, LACChain ID, or EBSI ID.
 - Manage DIDs to operate on different networks, with the ability to recover your identity if lost.
 - Request and store a credential issued on LACChain, Alastria, or EBSI.
 - Present verifiable credentials from multiple networks.
 - Revoke a presentation, thereby managing access.
-- Maintain a history of actions performed with your credentials, such as issuance, expiration, revocation, and recovery, as well as with presentations, like making or revoking them.  
+- Maintain a history of actions performed with your credentials, such as issuance, expiration, revocation, and recovery, as well as with presentations, like making or revoking them.
 
 Identfy is a product developed based on blockchain technology, allowing verification of information within a trusted ecosystem of entities that issue certified content, referred to as credentials. Through this, users have real control over their information, enabling them to manage access to their data while always respecting data privacy and anonymity.
 
 ## Table of content:
 
-- [How to start using it](#usage)
-- [Development guide](#development-guide)
+- [Holder Wallet](#holder-wallet)
+  - [Table of content:](#table-of-content)
+  - [Usage](#usage)
+  - [Development guide](#development-guide)
+  - [Help and Documentation](#help-and-documentation)
 - [License](#license)
 - [Trademark](#trademark)
 
@@ -48,7 +51,7 @@ You can download or get the Holder Wallet at:
 
 <br/>
 
-There is a detail about [how to use the Holder Wallet](./docs/IDENTFY_HOLDER_WALLET_USE.md) 
+There is a detail about [how to use the Holder Wallet](./docs/IDENTFY_HOLDER_WALLET_USE.md)
 
 ## Development guide
 
