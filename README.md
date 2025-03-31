@@ -1,7 +1,5 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./docs/img/identfy-logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./docs/img/identfy-logo-light.svg">
       <img alt="identfy" src="./docs/img/header-identfy.jpg" width="350" style="max-width: 100%;">
     </picture>
 </p>
@@ -14,7 +12,7 @@
 
 <br/>
 
-**[identfy](https://github.com/izertis/identfy)** is a combination of various products that enable building user-centric solutions.
+**[identfy](https://github.com/izertis/red.es-identfy)** is a combination of various products that enable building user-centric solutions.
 
 # Holder Wallet
 
@@ -61,7 +59,7 @@ If you are interested on testing and building it by yourself or you would like t
 ## Help and Documentation
 
 - *Contact:* send an email to blockchain@izertis.com
-- [Github discussions](https://github.com/izertis/identfy-holder-wallet/discussions) - Help and general questions about this project
+- [Github discussions](https://github.com/izertis/red.es-identfy-holder-wallet/discussions) - Help and general questions about this project
 
 
 # License
